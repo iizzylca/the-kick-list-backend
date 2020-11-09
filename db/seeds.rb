@@ -30,6 +30,6 @@ Sneaker.create(name: "Nike Air Zoom Spiridon Cage 2 Stussy Fossil", release: "04
 Sneaker.create(name: "Nike Air Fear of God 1 Triple Black", release: "04/25/2020", image: "https://stockx-360.imgix.net//Nike-Air-Fear-of-God-1-Triple-Black/Images/Nike-Air-Fear-of-God-1-Triple-Black/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1603481985", value: 490 , rarity: "Gold", description: "Tripple Black", rating: "4.34", brand: Brand.find_by(id:2))
 
 Sneaker.create(name: "adidas Yeezy Boost 350 V2 Carbon", release: "10/02/2020", image: "https://stockx-360.imgix.net//adidas-Yeezy-Boost-350-V2-Carbon/Images/adidas-Yeezy-Boost-350-V2-Carbon/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1603481985", value: 250 , rarity: "Gold", description: "Carbon", rating: "", brand: Brand.find_by(id:3))
-Sneaker.create(name: "", release: "", image: "", value: , rarity: "", description: "", rating: "", brand: Brand.find_by(id:1))
+Sneaker.create(name: "adidas Yeezy Boost 350 V2 Zebra", release: "", image: "", value: , rarity: "", description: "", rating: "", brand: Brand.find_by(id:1))
 Sneaker.create(name: "", release: "", image: "", value: , rarity: "", description: "", rating: "", brand: Brand.find_by(id:1))
 Sneaker.create(name: "", release: "", image: "", value: , rarity: "", description: "", rating: "", brand: Brand.find_by(id:1))
